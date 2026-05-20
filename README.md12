@@ -1,0 +1,3 @@
+Ejercicio 12 - BC5
+Crear un formulario que permita seleccionar un país de una lista desplegable (ComboBox) y muestre un mensaje con el país seleccionado al hacer clic en un botón.
+Al ejecutar la aplicación se abre una ventana de 360x160 píxeles con el título "Ejercicio 12 - Seleccionar País". Contiene un ComboBox con 19 países hispanohablantes y un botón "Ver país seleccionado". Al pulsar el botón se comprueba si hay una opción seleccionada: si no la hay, muestra un aviso en naranja; si la hay, muestra el nombre del país en azul. El layout está construido con un GridPane con padding de 20 píxeles y 10 de separación entre filas y columnas.
